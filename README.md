@@ -1,1 +1,1 @@
-# diabetes projection streamlit
+# diabetes prediction streamlit
